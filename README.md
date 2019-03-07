@@ -5,7 +5,8 @@
 ### VSCode	
 
 - [Insiders Build](https://code.visualstudio.com/insiders/)
-- [Setting link](https://gist.github.com/DaveHudson/528273dd25106423bdb20101ee20b0ba)
+- [VSCode Settings Sync] (https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+  - [Settings gist](https://gist.github.com/DaveHudson/528273dd25106423bdb20101ee20b0ba)
 
 
 ## Terminal
@@ -23,6 +24,7 @@
 - [Spectacle](https://www.spectacleapp.com)
 - [Dash](https://kapeli.com/dash)
 - [Clean My Mac](https://macpaw.com)
+- [Fork](https://git-fork.com/)
 - [Grammarly](https://www.grammarly.com)
 - [HandBrake](https://handbrake.fr)
 - [HMA VPN](https://www.hidemyass.com)
