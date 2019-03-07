@@ -1,6 +1,6 @@
 # Stuff I Use
 
-## Text Editors 
+## Code Editor
 
 ### VSCode	
 
@@ -14,11 +14,10 @@
 ## Terminal
 
 - [Hyper](https://hyper.is/)
+- [pure-prompt](https://www.npmjs.com/package/pure-prompt)
 - [Hyper Settings](https://gist.github.com/DaveHudson/500a3860301e19fb782ac691244e3817)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Oh my Zsh settings](https://gist.github.com/DaveHudson/970a2fabb04cb51e110eeba480cbf9e6)
-- [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
-
 
 ## Productivity
 
@@ -34,11 +33,14 @@
 - [Pomello](http://www.pomelloapp.com)
 - [RDM](https://github.com/avibrazil/RDM)
 - [Trello](https://trello.com/platforms)
+- [Real Time Board](https://realtimeboard.com)
+- [Stories on Board](https://storiesonboard.com/)
 
 ## Testing Tools
 
 - [React Testing Library](https://github.com/kentcdodds/react-testing-library)
 - [Bug Magnet](https://github.com/gojko/bugmagnet)
+- [Jest Axe](https://github.com/nickcolley/jest-axe)
 
 ## Design Tools
 
@@ -46,19 +48,27 @@
 - [Balsamiq](https://balsamiq.com)
 - [StoryBook](https://storybook.js.org/)
 
+## Web App Development
+
+- [Docker](https://www.docker.com)
+- [Jam Stack](https://jamstack.org/)
+- [Emotion](https://emotion.sh)
+
+## Mobile App Dev
+
+- [React Native](https://facebook.github.io/react-native/)
+- [Genymotion](https://www.genymotion.com)
+- [SimSim](https://github.com/dsmelov/simsim)
+- [Android Studio](https://developer.android.com/studio/index.html)
+
+## Desktop App Dev
+
+- [Electron Forge](https://github.com/electron-userland/electron-forge)
+
 
 ## Database Tools
 
 - [Robo 3T](https://robomongo.org)
-
-
-## App Development
-
-- [Android Studio](https://developer.android.com/studio/index.html)
-- [Genymotion](https://www.genymotion.com)
-- [SimSim](https://github.com/dsmelov/simsim)
-- [Docker](https://www.docker.com)
-- [Jam Stack](https://jamstack.org/)
 
 ## Hosting
 
@@ -82,7 +92,6 @@
 - [lighthouse](https://www.npmjs.com/package/lighthouse)
 - [preact-cli](https://www.npmjs.com/package/preact-cli)
 - [prisma-cli](https://www.npmjs.com/package/prisma-cli)
-- [pure-prompt](https://www.npmjs.com/package/pure-prompt)
 - [semantic-release-cli](https://www.npmjs.com/package/semantic-release-cli)
 - [webpack](https://www.npmjs.com/package/webpack)
 - [parcel](https://www.npmjs.com/package/parcel)
