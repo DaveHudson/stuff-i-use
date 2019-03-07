@@ -7,6 +7,7 @@
 - [Insiders Build](https://code.visualstudio.com/insiders/)
 - [VSCode Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
   - [Settings gist](https://gist.github.com/DaveHudson/528273dd25106423bdb20101ee20b0ba)
+- [Prettier](https://prettier.io/)
 
 
 ## Terminal
@@ -28,15 +29,21 @@
 - [Grammarly](https://www.grammarly.com)
 - [HandBrake](https://handbrake.fr)
 - [HMA VPN](https://www.hidemyass.com)
+- [MDX Deck](https://github.com/jxnblk/mdx-deck)
 - [Pomello](http://www.pomelloapp.com)
 - [RDM](https://github.com/avibrazil/RDM)
 - [Trello](https://trello.com/platforms)
 
+## Testing Tools
+
+- [React Testing Library](https://github.com/kentcdodds/react-testing-library)
+- [Bug Magnet](https://github.com/gojko/bugmagnet)
 
 ## Design Tools
 
 - [Sketch](https://www.sketchapp.com)
 - [Balsamiq](https://balsamiq.com)
+- [StoryBook](https://storybook.js.org/)
 
 
 ## Database Tools
@@ -50,7 +57,12 @@
 - [Genymotion](https://www.genymotion.com)
 - [SimSim](https://github.com/dsmelov/simsim)
 - [Docker](https://www.docker.com)
+- [Jam Stack](https://jamstack.org/)
 
+## Hosting
+
+- [Zeit Now](https://zeit.co/now)
+- [Netlify](https://www.netlify.com/)
 
 ## Globally Installed Packages
 
