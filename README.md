@@ -20,9 +20,8 @@
 ## Productivity
 
 - [Postman](https://www.getpostman.com)
+- [Spectacle](https://www.spectacleapp.com)
 - [Dash](https://kapeli.com/dash)
-- [Magnet](http://magnet.crowdcafe.com)
-- [Rocket](http://matthewpalmer.net/rocket/)
 - [Clean My Mac](https://macpaw.com)
 - [Grammarly](https://www.grammarly.com)
 - [HandBrake](https://handbrake.fr)
@@ -30,7 +29,6 @@
 - [Pomello](http://www.pomelloapp.com)
 - [RDM](https://github.com/avibrazil/RDM)
 - [Trello](https://trello.com/platforms)
-- [Typora](https://typora.io)
 
 
 ## Design Tools
@@ -42,7 +40,6 @@
 ## Database Tools
 
 - [Robo 3T](https://robomongo.org)
-
 
 
 ## App Development
@@ -72,9 +69,7 @@
 - [prisma-cli](https://www.npmjs.com/package/prisma-cli)
 - [pure-prompt](https://www.npmjs.com/package/pure-prompt)
 - [semantic-release-cli](https://www.npmjs.com/package/semantic-release-cli)
-- [speed-test](https://www.npmjs.com/package/speed-test)
 - [webpack](https://www.npmjs.com/package/webpack)
-- [yo](https://www.npmjs.com/package/yo)
 - [parcel](https://www.npmjs.com/package/parcel)
 
 ## Browsers
