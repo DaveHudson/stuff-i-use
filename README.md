@@ -90,6 +90,7 @@
 - [graphql-faker](https://github.com/APIs-guru/graphql-faker)
 - [http-server](https://www.npmjs.com/package/http-server)
 - [lighthouse](https://www.npmjs.com/package/lighthouse)
+- [Lighthouse Batch](https://www.npmjs.com/package/lighthouse-batch)
 - [preact-cli](https://www.npmjs.com/package/preact-cli)
 - [prisma-cli](https://www.npmjs.com/package/prisma-cli)
 - [semantic-release-cli](https://www.npmjs.com/package/semantic-release-cli)
