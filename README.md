@@ -7,6 +7,7 @@
 - [Insiders Build](https://code.visualstudio.com/insiders/)
 - [VSCode Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
   - [Settings gist](https://gist.github.com/DaveHudson/528273dd25106423bdb20101ee20b0ba)
+- [Tomorrow Night Eighties Theme](https://marketplace.visualstudio.com/items?itemName=chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme)
 - [Prettier](https://prettier.io/)
 
 
