@@ -15,6 +15,7 @@
 
 - [Hyper](https://hyper.is/)
 - [pure-prompt](https://www.npmjs.com/package/pure-prompt)
+- [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
 - [Hyper Settings](https://gist.github.com/DaveHudson/500a3860301e19fb782ac691244e3817)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Oh my Zsh settings](https://gist.github.com/DaveHudson/970a2fabb04cb51e110eeba480cbf9e6)
