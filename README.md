@@ -1,5 +1,17 @@
 # Stuff I Use
 
+## Password Management
+
+- [1 Password](https://1password.com)
+
+## Text Editing
+
+- [Typora](https://typora.io)
+
+## App Management
+
+- [Homebrew](https://brew.sh)
+
 ## Code Editor
 
 ### VSCode	
