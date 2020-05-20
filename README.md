@@ -12,6 +12,12 @@
 
 - [Homebrew](https://brew.sh)
 
+## Window Management
+
+- [Rectangle](https://github.com/rxhanson/Rectangle)
+
+> `brew cask install rectangle`
+
 ## Code Editor
 
 ### VSCode	
@@ -25,12 +31,11 @@
 
 ## Terminal
 
-- [Hyper](https://hyper.is/)
-- [pure-prompt](https://www.npmjs.com/package/pure-prompt)
-- [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
-- [Hyper Settings](https://gist.github.com/DaveHudson/500a3860301e19fb782ac691244e3817)
-- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
-- [Oh my Zsh settings](https://gist.github.com/DaveHudson/970a2fabb04cb51e110eeba480cbf9e6)
+- [iTerm2](https://www.iterm2.com)
+- [p10k](https://github.com/romkatv/powerlevel10k)
+
+> `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc`
 
 ## Productivity
 
@@ -112,14 +117,15 @@
 
 ## Browsers
 
-### Chrome
+### Firefox
 
-- [Apollo Dev Tools](https://github.com/apollographql/apollo-client-devtools)
-- [Redux Dev Tools](https://github.com/gaearon/redux-devtools)
+- [Browser](https://www.mozilla.org/en-GB/firefox/)
+
+### Chrome / Edge
+
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea?hl=en/)
-- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en)
 
 ## Music
 
